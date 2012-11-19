@@ -14,7 +14,7 @@ development:
   reconnect: false
   database: time_travel_development
   pool: 5
-  username: root
+  username: railsadmin
   password:
   socket: /tmp/mysql.sock
 
@@ -27,7 +27,7 @@ test:
   reconnect: false
   database: time_travel_test
   pool: 5
-  username: root
+  username: railsadmin
   password:
   socket: /tmp/mysql.sock
 
