@@ -37,6 +37,6 @@ production:
   reconnect: false
   database: time_travel_production
   pool: 5
-  username: root
+  username: railsadmin
   password:
   socket: /tmp/mysql.sock
